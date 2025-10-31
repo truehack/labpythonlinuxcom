@@ -1,5 +1,5 @@
 <pre>
-```
+
 labpythonlinuxcom/
 │
 ├── 1.py
@@ -13,5 +13,5 @@ labpythonlinuxcom/
 ├── shell.log         # Лог-файл с командами
 ├── file.txt          # Тестовый файл
 └── papka/            # Папка для проверки cp/mv
-```
+
 </pre>
