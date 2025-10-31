@@ -1,8 +1,3 @@
-
-
----
-
-### Структура проекта
 labpythonlinuxcom/
 │
 ├── 1.py
@@ -15,11 +10,4 @@ labpythonlinuxcom/
 │
 ├── shell.log # Лог-файл с командами
 ├── file.txt # Тестовый файл
-└── papka/ # Папка для проверки cp/mv
-
----
-python 3.py
-python 4.py
-python 5.py
-python 6.py
-python 7.py
+└── papka/ # Папка для проверки cp/mv 
